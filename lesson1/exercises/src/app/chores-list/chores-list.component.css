@@ -1,0 +1,13 @@
+.chores {
+  color: darkgreen;
+  font: 1.2em Verdana, sans-serif;
+}
+
+.chores h3 {
+  text-decoration: underline;
+  margin-left: 25px;
+}
+
+.chores li {
+  font-style: italic;
+}
